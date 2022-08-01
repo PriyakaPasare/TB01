@@ -10,6 +10,9 @@ public class GitRepsitory {
 	{
 	  System.out.println("This is M2");
 	}
+	public void m3(){
+		System.out.println("m3");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("main");
